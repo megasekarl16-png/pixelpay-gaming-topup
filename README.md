@@ -4,10 +4,6 @@ PixelPay adalah konsep website gaming top-up store bertema **lime dark** yang di
 
 > Project portfolio — tidak memproses uang, akun game, atau diamond sungguhan.
 
-## Live demo
-
-[pixelpay-lime.megasekarl16.chatgpt.site](https://pixelpay-lime.megasekarl16.chatgpt.site)
-
 ## Fitur utama
 
 - Katalog dan pencarian game
